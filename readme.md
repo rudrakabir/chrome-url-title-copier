@@ -10,3 +10,7 @@ This lightweight Chrome extension copies the current tab's title & URL in a form
 5. Click the extension button and paste into Google Sheets!
 
 Made with ❤️
+
+If you find this extension useful, consider supporting me:  
+☕ [Buy Me a Coffee](https://www.buymeacoffee.com/rudrakabir)
+
