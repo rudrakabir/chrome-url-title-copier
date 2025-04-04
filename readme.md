@@ -1,6 +1,8 @@
 # Copy Title & URL Chrome Extension
 
-This lightweight Chrome extension copies the current tab's title & URL in a format perfect for Google Sheets (Title in Column A, URL in Column B).
+This lightweight Chrome extension copies the current tab's title & URL in a format perfect for Google Sheets or Excel. (Title in Column A, URL in Column B). 
+
+Once installed, Simply press the extension button, and paste into your sheet. No sign in or account required, no data collected or sent. 
 
 ## 🚀 How to Install
 1. Download & extract the ZIP.
